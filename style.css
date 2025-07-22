@@ -1,0 +1,105 @@
+#header{
+height: 100px;
+background-color: black;
+}
+
+img{
+height: 100px;
+width: 100px;
+text-align: left;
+}
+
+.body{
+background-color: #e6e6e6;
+}
+
+h1{
+float: right;
+color: gold;
+margin-right: 10px;
+margin-top: 28px;
+}
+
+#nature img{
+height: 500px;
+width: 500px;
+margin-top: 15px;
+margin-left: 200px;
+}
+
+/*#nature_content{
+
+margin-top: 10px;
+}*/
+
+.content{
+display: flex;
+background-color: #e6e6e6;
+
+}
+
+#content1{
+margin-top: 10px;
+margin-left: 20px;
+margin-right: 200px;
+text-align: justify;
+}
+
+
+h2{
+font-size: 40px;
+margin-bottom: 0px;
+}
+
+#content_body{
+margin-top: 10px;
+}
+
+#content2{
+background-color: #e6e6e6;
+
+text-align: justify;
+padding-left: 40px;
+padding-right: 40px;
+}
+
+h3{
+font-size: 30px;
+text-align: center;
+}
+
+.city{
+	display: flex;
+background-color: #e6e6e6;
+}
+
+#london{
+width: 31%;
+height: 100px;
+background-color: #79d279;
+margin-left: 40px;
+border: 1px solid darkred;
+
+}
+
+#london h4 h5{
+line-height: 1.5;
+}
+
+#oslo{
+width: 31%;
+height: 100px;
+background-color: #ffcccc;
+margin-left: 13px;
+border: 1px solid darkred;
+
+}
+
+#rome{
+width: 31%;
+height: 100px;
+background-color: #d6f5f5;
+border: 1px solid darkred;
+margin-left: 13px;
+
+}
